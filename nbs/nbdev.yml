@@ -1,0 +1,9 @@
+project:
+  output-dir: _docs
+
+website:
+  title: "nbdev_test"
+  site-url: "https://complexitysoftware.github.io/nbdev_test"
+  description: "Test project for nbdev"
+  repo-branch: main
+  repo-url: "https://github.com/complexitysoftware/nbdev_test"
